@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zjE3n1rZBMTjzewEPO0rRwerJnRpaPLhp6IF6eF6RlMhZ678khjxe8HIFASQRBf8vHEtmSovyO97PNXqeEzug==",
+  "success": true,
+  "projectFilePath": "D:\\c#projects\\GorselProgramlama\\VisualProgramming3rd\\VisualProgrammingConsoleDemo\\VisualProgrammingConsoleDemo\\VisualProgrammingConsoleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arifb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\arifb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

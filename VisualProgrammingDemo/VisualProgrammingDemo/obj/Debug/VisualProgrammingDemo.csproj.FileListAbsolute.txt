@@ -1,0 +1,15 @@
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.csproj.AssemblyReference.cache
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\MainWindow.g.cs
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\App.g.cs
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo_MarkupCompile.cache
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo_MarkupCompile.lref
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\bin\Debug\VisualProgrammingDemo.exe.config
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\bin\Debug\VisualProgrammingDemo.exe
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\bin\Debug\VisualProgrammingDemo.pdb
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\MainWindow.baml
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.g.resources
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.Properties.Resources.resources
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.csproj.GenerateResource.cache
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.csproj.CoreCompileInputs.cache
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.exe
+D:\c#projects\GorselProgramlama\VisualProgramming3rd\VisualProgrammingDemo\VisualProgrammingDemo\obj\Debug\VisualProgrammingDemo.pdb
